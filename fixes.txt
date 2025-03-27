@@ -1,3 +1,6 @@
 
 
 this file fixesbugs
+
+this is happening in master
+bug is fixed in master
